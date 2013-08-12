@@ -1,0 +1,3 @@
+[submodule "vendor/php-browser"]
+	path = vendor/php-browser
+	url = https://github.com/gavroche/php-browser
